@@ -1,6 +1,6 @@
 {
   "name": "progress-bar-rn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple progress bar component created for React-Native",
   "main": "index.js",
   "scripts": {
