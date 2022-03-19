@@ -1,5 +1,5 @@
 {
-  "name": "progress-bar",
+  "name": "progress-bar-rn",
   "version": "1.0.0",
   "description": "A simple progress bar component created for React-Native",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "bar"
   ],
   "author": "Wenhao Li",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/hysasuke/ProgressBar/issues"
   },
