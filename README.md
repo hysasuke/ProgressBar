@@ -4,8 +4,6 @@
 
 A light and simple progress bar component created for React Native
 
-
-
 ## Installation
 
 ---
@@ -13,8 +11,6 @@ A light and simple progress bar component created for React Native
 ```
 npm install progress-bar-rn
 ```
-
-
 
 ## Usage
 
@@ -49,22 +45,20 @@ import ProgressBar from "progress-bar-rn";
 </ProgressBar>
 ```
 
-
-
 ## Props
 
 ---
 
-| Prop                   | Description                                                                                                   | Default |
-|:---------------------- |:-------------------------------------------------------------------------------------------------------------:|:-------:|
-| `containerShadowStyle` | Set shadow of container                                                                                       | none    |
-| `trackColor`           | Set color of track                                                                                            | none    |
-| `trackStyle`           | Set style of track                                                                                            | none    |
-| `progress`             | Set current progress percentage, e.g. 50                                                                      | 0       |
-| `style`                | Set style of container                                                                                        | none    |
-| `type`                 | *optional*: `timing` /n When type is set to timing, then the increment of the progress bar will be continuous | none    |
-| initialValue           | *optional* /n Used to set where the continuous increment starts                                               | 0       |
-| duration               | *optional* /n Used to set the duration (in ms) of the continuous increment from 0 to 100                      | 500     |
-| animationStarted       | Set whether or not the continuous increment is started                                                        | false   |
+| Prop                   | Description                                                                                                 | Default |
+|:---------------------- |:-----------------------------------------------------------------------------------------------------------:|:-------:|
+| `containerShadowStyle` | Set shadow of container                                                                                     | none    |
+| `trackColor`           | Set color of track                                                                                          | none    |
+| `trackStyle`           | Set style of track                                                                                          | none    |
+| `progress`             | Set current progress percentage, e.g. 50                                                                    | 0       |
+| `style`                | Set style of container                                                                                      | none    |
+| `type`                 | *optional*: `timing`  When type is set to timing, then the increment of the progress bar will be continuous | none    |
+| `initialValue`         | *optional*  Used to set where the continuous increment starts                                               | 0       |
+| `duration`             | *optional*  Used to set the duration (in ms) of the continuous increment from 0 to 100                      | 500     |
+| `animationStarted`     | Set whether or not the continuous increment is started                                                      | false   |
 
 ### 
