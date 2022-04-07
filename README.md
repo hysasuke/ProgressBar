@@ -1,12 +1,10 @@
 # progress-bar-rn
 
----
 
 A light and simple progress bar component created for React Native
 
 ## Installation
 
----
 
 ```
 npm install progress-bar-rn
@@ -14,7 +12,6 @@ npm install progress-bar-rn
 
 ## Usage
 
----
 
 ```
 import ProgressBar from "progress-bar-rn";
@@ -47,7 +44,6 @@ import ProgressBar from "progress-bar-rn";
 
 ## Props
 
----
 
 | Prop                   | Description                                                                                                 | Default |
 |:---------------------- |:-----------------------------------------------------------------------------------------------------------:|:-------:|
